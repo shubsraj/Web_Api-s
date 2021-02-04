@@ -12,14 +12,14 @@ To decode JSON data i used _Json_ library
 
 ## __API's Used__
 * __MetaWeather__
-__Link__ - https://www.metaweather.com/
-__API Url__ - https://quote-garden.herokuapp.com/api/location/search/?query=(query)
-__Documentation__ - https://www.metaweather.com/api/
+	* __Link__ - https://www.metaweather.com/
+	* __API Url__ - https://quote-garden.herokuapp.com/api/location/search/?query=(query)
+	* __Documentation__ - https://www.metaweather.com/api/
 
 * __Quote Garden__
-__Link__ - https://https://www.quotegarden.com/
-__API Url__ - https://quote-garden.herokuapp.com/api/v3/quotes/random
-__Documentation__ - https://github.com/pprathameshmore/QuoteGarden
+	* __Link__ - https://https://www.quotegarden.com/
+	* __API Url__ - https://quote-garden.herokuapp.com/api/v3/quotes/random
+	* __Documentation__ - https://github.com/pprathameshmore/QuoteGarden
 
 ## __Free API's__
 Here you can find a list of Public API's 
