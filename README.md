@@ -11,18 +11,15 @@ For fetching data i used __Requests__ library and as a response got data in json
 To decode JSON data i used _Json_ library
 
 ## __API's Used__
-* __MetaWeather__
-	* __Link__ - https://www.metaweather.com/
-	* __API Url__ - https://quote-garden.herokuapp.com/api/location/search/?query=(query)
-	* __Documentation__ - https://www.metaweather.com/api/
+* [__MetaWeather__](https://www.metaweather.com/)
+	* [__API Url__](https://quote-garden.herokuapp.com/api/location/search/?query=(query))
+	* [__Documentation__](https://www.metaweather.com/api/)
 
-* __Quote Garden__
-	* __Link__ - https://https://www.quotegarden.com/
-	* __API Url__ - https://quote-garden.herokuapp.com/api/v3/quotes/random
-	* __Documentation__ - https://github.com/pprathameshmore/QuoteGarden
+* [__Quote Garden__](https://https://www.quotegarden.com/)
+	* [__API Url__](https://quote-garden.herokuapp.com/api/v3/quotes/random)
+	* [__Documentation__](https://github.com/pprathameshmore/QuoteGarden)
 
 ## __Free API's__
-Here you can find a list of Public API's 
-https://www.github.com/public-apis/public-apis
+[Here you can find a list of Public API's](https://www.github.com/public-apis/public-apis)
 
-If any feedback feel free to contact me at - shubshub1995@gmail.com
+If any feedback feel free to contact me at - [Gmail](shubshub1995@gmail.com)
